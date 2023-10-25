@@ -8,9 +8,16 @@ My prowess in software development includes HTML, CSS, React/Redux, Python, Flas
 When I'm not in my coding atmosphere, you will encounter me doing physical activities, such as working out, volleyball, hiking, snowboarding. If you didn't find me, I was probably watching anime or playing video games.
 
 
-- 🌱 I’m currently learning Python, Flask, JavaScript, React/Redux, PostgreSQL, Express 
 - 📫 How to reach me rjrose.19@gmail.com
 
+- 🌱 I’m currently learning Python, Flask, JavaScript, React/Redux, PostgreSQL, Express 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 
 <!---
 RjRosales19/RjRosales19 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
